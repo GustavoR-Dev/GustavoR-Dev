@@ -29,7 +29,7 @@
 🚀 **Tecnologias principais:**  
 🛠️ **Backend:** PHP, Java, Python <br>
 🛠️ **Frontend:** HTML5, CSS3, JavaScript <br>
-🗄️ **Banco de Dados:** MySQL  
+🗄️ **Banco de Dados:** SQL  
 🌐 **Versionamento:** Git  
 
 
