@@ -111,6 +111,6 @@
 
 ## 🚀 Projetos em Destaque
 
-🔹 [Meu Portfólio](http://localhost/portfolio/) 💼
+🔹 [Meu Portfólio](https://gustavor-dev.github.io/portfolio/) 💼
 🔹 [Bolão Copa 2026](http://localhost/bolao_copa_2026/login.html) ⚽
 🔹 [IP Jacareí](http://localhost/ipjacarei/) ⛪
