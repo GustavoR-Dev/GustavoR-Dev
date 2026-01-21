@@ -3,21 +3,29 @@
 ## 🚀 Sobre mim  
 
 🎓 **Cursando Ciência da Computação**  <br>
-💼 **Atualmente estagiando como Desenvolvedor de Software na Diretoria de Tecnologia da Informação na Prefeitura de Jacareí** <br>
-- Experiência anterior nos setores financeiro e administrativo, com forte atuação em comunicação, organização e trabalho em equipe. <br>
-- Desenvolvimento de sistemas internos com foco em soluções escaláveis e transformação digital. <br>
-- Criação de gráficos, planilhas, proteção de dados e automação de documentos com foco em eficiência de processos. <br> <br>
-- Automação de tarefas em Python e integração de sistemas via API.
-- Desenvolvimento de site oficial personalizado para organização religiosa.
-- Desenvolvimento de sistemas em Java: controle de cinema e cálculo de geração e consumo de placa solar. <br><br>
+💼 **Estagiário em Desenvolvimento de Sistemas — Diretoria de Tecnologia da Informação | Prefeitura de Jacareí** <br>
+- Atuação prática no desenvolvimento de sistemas web, automações e integrações via APIs REST.
+- Participação em projetos reais, contribuindo desde o levantamento de requisitos até a implementação e evolução das soluções.
+- Desenvolvimento de sistema completo em Laravel
+- Reestruturação de fluxos de sistema (paginação e organização de dados), melhorando manutenção, usabilidade e desempenho.
+- Refatoração de código, correção de bugs e implementação de controle de permissões de acesso, aumentando a segurança e a estabilidade das aplicações.
+- Criação de automações em Python e integração entre sistemas, reduzindo trabalho manual e otimizando processos internos.
+- Desenvolvimento de site institucional personalizado, atendendo demandas específicas do cliente.
 
-💡 **Apaixonado por desenvolvimento web, automação, banco de dados e desenvolvimento backend**  
+
+
+💡 **Atualmente focado em:**  <br>
+- Back-end e integrações
+- Automação com Python
+- Estudos em IA aplicada, automação e uso de LLMs
+
+
 
 🚀 **Tecnologias principais:**  
-🛠️ **Backend:** PHP, Java, Python <br>
-🛠️ **Frontend:** HTML5, CSS3, JavaScript <br>
+🛠️ **Backend:** PHP, Laravel, Python <br>
+🛠️ **Frontend:** HTML5, CSS3, React, JavaScript <br>
 🗄️ **Banco de Dados:** SQL  
-🌐 **Versionamento:** Git  
+
 
 
 
