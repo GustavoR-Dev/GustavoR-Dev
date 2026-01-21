@@ -1,18 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=FBFBFB&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo+Rossi.)](https://git.io/typing-svg)
 
-
-<table>
-  <tr>
-    <td>
-      <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome&animation=fadeIn&gradientColors=B993D6,8CA6DB" />
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
-    </td>
-  </tr>
-</table>
-
-
 ## 🚀 Sobre mim  
 
 🎓 **Cursando Ciência da Computação**  <br>
@@ -61,9 +48,7 @@
 <div align="center">
 
 <!-- Linguagens Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="REACT logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript logo" />
 <img width="12" />
@@ -75,8 +60,6 @@
 <!-- Linguagens Backend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java logo" />
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python logo" />
 <img width="12" />
 
@@ -87,9 +70,7 @@
 <!-- Frameworks & Bibliotecas (caso FullStack) -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap logo"  />
 <img width="12" />
-
-<!-- IDEs e Ferramentas -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="LARAVEL logo" />
 <img width="12" />
 
 </div>
